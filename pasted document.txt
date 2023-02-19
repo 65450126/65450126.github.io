@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK 
+Accept-Ranges: bytes 
+Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400 
+Cf-Cache-Status: DYNAMIC 
+Cf-Ray: 799e95614938241a-IAD 
+Connection: close 
+Content-Type: text/html 
+Date: Wed, 15 Feb 2023 14:02:51 GMT 
+Last-Modified: Fri, 16 Sep 2022 06:07:34 GMT 
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800} 
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=LKviLlp0IZt4bbqARjWut1PGqBICwwtu8JIJ9WLODx6Dvx0SNHSPzqn9mynHMHIZRxWWN7uRMTxVfzciJFFQeyI17KNvOrJfsA5YkZJiDrTQab29SGEN%2Be0LfPysDLDkAio%3D"}],"group":"cf-nel","max_age":604800} 
+Server: cloudflare 
+Strict-Transport-Security: max-age=15768000 
+Transfer-Encoding: chunked 
+ 
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-5200158FYT"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5200158FYT');
+</script>
+  <meta charset="UTF-8">
+  <meta content="yes" name="apple-touch-fullscreen">
+  <meta content="yes" name="apple-mobile-web-app-capable">
+  <meta content="white" name="apple-mobile-web-app-status-bar-style">
+  <link id="J_desktopIcon" sizes="114x114" rel="apple-touch-icon-precomposed" href="assets/assets/logo@2x.png">
+  <title>usdt</title>
+</head>
+<body>
+  <script src="main.dart.js" type="application/javascript"></script>
+</body>
+</html>
